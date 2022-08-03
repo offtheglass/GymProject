@@ -1,2 +1,2 @@
-b=7
-print(b)
+c=71
+print(c)
