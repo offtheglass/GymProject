@@ -1,2 +1,2 @@
-import sys
-print("i did")
+b=7
+print(b)
