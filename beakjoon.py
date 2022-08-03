@@ -1,2 +1,2 @@
-b=7
-print(b)
+a=1
+print(a)
